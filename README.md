@@ -17,5 +17,6 @@
 13. Lecture 77. Nav Bars
 14. Lecture 78. The Grid System
 15. Lecture 79. The Grid System
+16. Lecture 80. The Grid System Pt.2
 
 
