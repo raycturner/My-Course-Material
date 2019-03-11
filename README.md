@@ -15,5 +15,7 @@
 11. Lecture 75. Adding Bootstrap to a Project
 12. Lecture 76. Forms and Inputs
 13. Lecture 77. Nav Bars
+14. Lecture 78. The Grid System
+15. Lecture 79. The Grid System
 
 
