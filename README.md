@@ -19,6 +19,7 @@
 15. Lecture 79. The Grid System
 16. Lecture 80. The Grid System Pt.2
 17. Lecture 81. Bootstrap Image Gallery Pt.1
-17. Lecture 82. Bootstrap Image Gallery Pt.1
+18. Lecture 82. Bootstrap Image Gallery Pt.1
+19. Lecture 83. Bootstrap Image Gallery Pt.2
 
 

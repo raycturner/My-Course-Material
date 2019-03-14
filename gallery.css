@@ -1,3 +1,19 @@
-body{
+body {
     padding-top: 70px;
+}
+
+.jumbotron {
+    color: #2c3e50;
+}
+
+.navbar-default{
+    background: #2c3e50;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: azure;
+}
+
+.navbar-default .navbar-brand{
+    color: aliceblue;
 }
