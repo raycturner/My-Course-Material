@@ -22,7 +22,7 @@
 18. Lecture 82. Bootstrap Image Gallery Pt.1
 19. Lecture 83. Fontawesome.
 20. Lecture 84. Bootstrap Image Gallery Pt.2
-21. Lecture 85. Startup landing Page.
+21. Lecture 85. Creating a Startup landing Page.
 
 
 
