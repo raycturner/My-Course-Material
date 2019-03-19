@@ -26,6 +26,7 @@
 22. Lecture 86. Creating a Startup landing Page Pt.2
 23. Lecture 87. Notes On Mobile Responiveness.
 24. Lecture 88. A History of Bootstrap 4.
-
+25. Lecture 89. The Bootstrap 4 Documentation.
+26. Lecture 90. Changes from Bootstrap 3 VS 4.
 
 
