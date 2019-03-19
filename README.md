@@ -24,6 +24,8 @@
 20. Lecture 84. Bootstrap Image Gallery Pt.2
 21. Lecture 85. Creating a Startup landing Page Pt.1
 22. Lecture 86. Creating a Startup landing Page Pt.2
+23. Lecture 87. Notes On Mobile Responiveness.
+24. Lecture 88. A History of Bootstrap 4.
 
 
 
