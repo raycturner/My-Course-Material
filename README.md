@@ -28,5 +28,8 @@
 24. Lecture 88. A History of Bootstrap 4.
 25. Lecture 89. The Bootstrap 4 Documentation.
 26. Lecture 90. Changes from Bootstrap 3 VS 4.
-27. Lecture 91. 
+27. Lecture 91. Bootstrap 4 Code/Solutions Download
+28. Lecture 92. Getting Started with Boostrap 4
+29. Lecture 93.
+30. Lecture 94.
 
