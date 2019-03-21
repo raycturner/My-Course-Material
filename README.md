@@ -30,6 +30,6 @@
 26. Lecture 90. Changes from Bootstrap 3 VS 4.
 27. Lecture 91. Bootstrap 4 Code/Solutions Download
 28. Lecture 92. Getting Started with Boostrap 4
-29. Lecture 93.
+29. Lecture 93. Bootstrap 4. Colors and Backgrounds
 30. Lecture 94.
 
