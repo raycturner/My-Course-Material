@@ -33,4 +33,5 @@
 29. Lecture 93. Bootstrap 4. Colors and Backgrounds
 30. Lecture 94. Typography
 31. Lecture 95. Space Changes
+32. Lecture 96. Breakpoints
 
